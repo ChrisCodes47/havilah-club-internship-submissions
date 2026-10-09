@@ -6,19 +6,20 @@ Fill in every field below before your first commit. This file is how instructors
 
 | Field | Your Answer |
 |-------|-------------|
-| Full Name | |
-| GitHub Username | |
-| Email Address | |
-| Phone / WhatsApp | |
+| Full Name |Agwagu Emmanuel Chibuike|
+| GitHub Username |ChrisCodes47 |
+| Email Address |chrisx427284@gmail.com |
+| Phone / WhatsApp |09163900361 |
 | Cohort | Havilah Club Internship — Cohort |
-| Programme Start Date | |
-| LinkedIn Profile | |
+| Programme Start Date |7th September,2026 |
+| LinkedIn Profile | |https://www.linkedin.com/in/chris-emmanuel-592716438?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
 ## Personal Learning Objective
 
 Write 2–3 sentences describing what you specifically want to be able to do by the end of the 8 weeks.
+ I want to build a solid foundation in programming, AI, automation, and robotics so I can confidently create smart systems and practical projects. I aim to apply these skills to automate everyday tasks and solve real-world engineering problems efficiently.
 
 > Replace this line with your learning objective.
 
